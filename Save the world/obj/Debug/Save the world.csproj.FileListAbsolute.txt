@@ -1,0 +1,15 @@
+c:\users\a639360\documents\visual studio 2015\Projects\Save the world\Save the world\bin\Debug\Save the world.exe.config
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\App.g.cs
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\Save the world_MarkupCompile.cache
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\bin\Debug\Save the world.exe
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\bin\Debug\Save the world.pdb
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\MainWindow.g.cs
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\Save the world_MarkupCompile.lref
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\MainWindow.baml
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\Save the world.g.resources
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\Save_the_world.Properties.Resources.resources
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\Save the world.csproj.GenerateResource.Cache
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\Save the world.exe
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\Save the world.pdb
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\obj\Debug\Save the world.csprojResolveAssemblyReference.cache
+C:\Users\A639360\documents\visual studio 2015\Projects\Save the world\Save the world\bin\Debug\Resources\panda.png
